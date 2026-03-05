@@ -60,3 +60,6 @@ $ROOTFS/
 *.toml
 *.bak
 
+# Drawable assets (large images) ignored
+app/src/main/res/drawable/
+
